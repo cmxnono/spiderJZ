@@ -1,0 +1,496 @@
+--2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p1.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... --2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p2.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p3.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p4.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 301 Moved Permanently
+位置：http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/ [跟随至新的 URL]
+--2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/
+再次使用存在的到 www.happyjuzi.com:80 的连接。
+已发出 HTTP 请求，正在等待回应... 已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p5.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p6.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p7.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 200 OK
+长度：未指定 [text/html]
+正在保存至: “p2.html.1”
+
+     0K .......... ..200 OK
+长度：未指定 [text/html]
+正在保存至: “p1.html.1”
+
+     0K .......... ..已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p8.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 200 OK
+长度：未指定 [text/html]
+正在保存至: “p3.html.1”
+
+     0K .......... ..已连接。
+已发出 HTTP 请求，正在等待回应... ........ ......--2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p9.html
+........ ......正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 200 OK
+长度：未指定 [text/html]
+正在保存至: “p4.html.1”
+
+     0K .......... ..59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... ........ .......... ....--2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p10.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... .... .......... ..........  711K
+    50K ......... .......... .........已连接。
+已发出 HTTP 请求，正在等待回应... ........ .......... ....--2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p11.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... ...... ..........  705K
+    50K .....已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p12.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... ..... ..                                           346K=0.1s
+
+2018-01-04 03:44:37 (589 KB/s) - “p2.html.1” 已保存 [63641]
+
+.  491K
+    50K .......... .                                            112M=0.1s
+
+2018-01-04 03:44:37 (601 KB/s) - “p1.html.1” 已保存 [62693]
+
+...... ..........  733K
+    50K .....已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p13.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... ..... .                                            320K=0.1s
+
+2018-01-04 03:44:37 (577 KB/s) - “p3.html.1” 已保存 [62756]
+
+已连接。
+已发出 HTTP 请求，正在等待回应... .....                                              310K=0.1s
+
+2018-01-04 03:44:37 (593 KB/s) - “p4.html.1” 已保存 [61988]
+
+--2018-01-04 03:44:37--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p14.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p15.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p16.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p17.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 200 OK
+长度：未指定 [text/html]
+正在保存至: “p6.html”
+
+     0K .......... ..已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度：未指定 [text/html]
+正在保存至: “p7.html”
+
+     0K .......... ..--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p18.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... ........ .......... ....--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p19.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 200 OK
+长度：未指定 [text/html]
+正在保存至: “p5.html”
+
+     0K .......... ........... ......已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度：未指定 [text/html]
+正在保存至: “p8.html”
+
+     0K .......... ...--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p20.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... ...... ..........  722K
+    50K .....已连接。
+已发出 HTTP 请求，正在等待回应... ....... ............ .......... ..........  729K
+    50K .....--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p21.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 200 OK
+长度：未指定 [text/html]
+正在保存至: “p10.html”
+
+     0K .......... ..59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... ....... ........200 OK
+长度：未指定 [text/html]
+正在保存至: “p9.html”
+
+     0K .......... ..已连接。
+已发出 HTTP 请求，正在等待回应... .....                                              318K=0.1s
+
+2018-01-04 03:44:38 (589 KB/s) - “p6.html” 已保存 [62338]
+
+--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p22.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... .. .......... ..........  728K
+    50K ..200 OK
+长度：未指定 [text/html]
+正在保存至: “p11.html”
+
+     0K .......... ....... .                                            342K=0.1s
+
+2018-01-04 03:44:38 (601 KB/s) - “p7.html” 已保存 [63080]
+
+........ ......已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度：未指定 [text/html]
+正在保存至: “p12.html”
+
+     0K .......... .... .......... ..........  734K
+    50K .......... ......--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p23.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... ........ .                                            342K=0.1s
+
+2018-01-04 03:44:38 (600 KB/s) - “p5.html” 已保存 [63123]
+
+........ ......--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p24.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 200 OK
+长度：未指定 [text/html]
+.... ......正在保存至: “p13.html”
+.... .
+     0K .......... .......... .............. .                                            344K=0.1s
+
+2018-01-04 03:44:38 (605 KB/s) - “p8.html” 已保存 [63085]
+
+.... .......... ..........  745K
+    50K ...已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p25.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 200 OK
+长度：未指定 [text/html]
+正在保存至: “p14.html”
+
+     0K .......... ...... .......... .已连接。
+已发出 HTTP 请求，正在等待回应... .........  490K
+    50K ............. ......200 OK
+长度：未指定 [text/html]
+正在保存至: “p15.html”
+
+     0K .......... ..--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p26.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... .... .......... ........ .                                            349K=0.1s
+
+2018-01-04 03:44:38 (612 KB/s) - “p9.html” 已保存 [63268]
+
+已连接。
+已发出 HTTP 请求，正在等待回应... ........ ......--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p27.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... .........  488K
+    50K ..........                                              317K=0.1s
+
+2018-01-04 03:44:38 (447 KB/s) - “p10.html” 已保存 [62260]
+
+.... .......... ......... .......... ....已连接。
+已发出 HTTP 请求，正在等待回应... .........  471K
+    50K .....--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p28.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 200 OK
+长度：未指定 [text/html]
+200 OK
+长度：未指定 [text/html]
+正在保存至: “p16.html”
+
+     0K .正在保存至: “p17.html”
+........
+     0K ..... ........ ...... .......... .已连接。
+已发出 HTTP 请求，正在等待回应... ..... .                                            326K=0.1s
+
+2018-01-04 03:44:38 (447 KB/s) - “p11.html” 已保存 [62637]
+
+--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p29.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... ...... .................  476K
+    50K. .....  721K.
+    50K .......... ..                                           104M=0.07s
+
+.2018-01-04 03:44:38 (893 KB/s) - “p15.html” 已保存 [63493]
+
+.... .                                           25.7M=0.1s
+
+2018-01-04 03:44:38 (582 KB/s) - “p13.html” 已保存 [62779]
+
+..... .                                            327K=0.1s
+
+2018-01-04 03:44:38 (436 KB/s) - “p12.html” 已保存 [62709]
+
+已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p30.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... ................  .............. ......... ..59.110.246.221
+..正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... .........  487K
+    50K .....200 OK
+长度：未指定 [text/html]
+正在保存至: “p19.html”
+
+     0K .......... ..200 OK
+长度：未指定 [text/html]
+正在保存至: “p18.html”
+
+     0K .......... ..已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p31.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 200 OK
+长度：未指定 [text/html]
+正在保存至: “p20.html”
+
+     0K .......... ............ .... ...................  729K  729K
+    50K
+    50K  ...............                                              144M=0.07s
+
+2018-01-04 03:44:38 (882 KB/s) - “p17.html” 已保存 [61962]
+
+已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p32.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... ..... .                                            340K=0.1s
+
+2018-01-04 03:44:38 (450 KB/s) - “p14.html” 已保存 [63169]
+
+59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... ........ .......... ........... ......已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p33.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 200 OK
+长度：未指定 [text/html]
+正在保存至: “p21.html”
+
+     0K .......... .......... ........... ..                                           356K=0.1s
+
+2018-01-04 03:44:38 (604 KB/s) - “p16.html” 已保存 [63674]
+
+已连接。
+已发出 HTTP 请求，正在等待回应... ....... ..........  741K
+    50K .....--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p34.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... .... .......... .59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p35.html
+...正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... ..... ......59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... .... .......... .........200 OK
+长度：未指定 [text/html]
+正在保存至: “p22.html”
+
+     0K .......... .......                                              322K=0.1s
+
+2018-01-04 03:44:38 (601 KB/s) - “p19.html” 已保存 [62396]
+
+.........  484K
+    50K .....已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p36.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... .... .......... .已连接。
+已发出 HTTP 请求，正在等待回应... .  489K
+    50K .......... .                                           91.3M=0.1s
+
+2018-01-04 03:44:38 (597 KB/s) - “p20.html” 已保存 [62662]
+
+200 OK
+长度：未指定 [text/html]
+正在保存至: “p25.html”
+
+     0K .......... .......... .......... ...--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p37.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 200 OK
+长度：未指定 [text/html]
+59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... 正在保存至: “p23.html”
+
+     0K .......... ....... .                                            339K=0.1s
+
+2018-01-04 03:44:38 (448 KB/s) - “p18.html” 已保存 [63178]
+
+已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度：未指定 [text/html]
+正在保存至: “p24.html”
+
+     0K .......... ..--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p38.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... .........  477K
+    50K ............. .......... ............ ..........  705K
+    50K ............. .......... ....已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p39.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... ........ ......200 OK
+长度：未指定 [text/html]
+正在保存至: “p27.html”
+
+     0K .......... ..200 OK
+长度：未指定 [text/html]
+正在保存至: “p26.html”
+
+     0K .......... ..已连接。
+已发出 HTTP 请求，正在等待回应... ...... ..     . . ..   .                                  351K=0.1s
+
+2018-01-04 03:44:38 (446 KB/s) - “p21.html” 已保存 [63592]
+
+.........  722K
+    50K .......... .                                            159M=0.07s
+
+2018-01-04 03:44:38 (890 KB/s) - “p25.html” 已保存 [63175]
+
+200 OK
+长度：未指定 [text/html]
+--2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p40.html
+正在保存至: “p28.html”
+
+     0K .....正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... ..... ..59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... ..... .                                            328K=0.1s
+
+2018-01-04 03:44:38 (579 KB/s) - “p22.html” 已保存 [63065]
+
+...... ..........  706K
+    50K .......... .                                           88.8M=0.07s
+
+2018-01-04 03:44:38 (862 KB/s) - “p23.html” 已保存 [62672]
+
+已连接。
+已发出 HTTP 请求，正在等待回应... --2018-01-04 03:44:38--  http://www.happyjuzi.com/star-ku-0-0-0-0-0-0-0/p41.html
+正在解析主机 www.happyjuzi.com (www.happyjuzi.com)... 59.110.246.221
+正在连接 www.happyjuzi.com (www.happyjuzi.com)|59.110.246.221|:80... .... .......... ......... .............. ......200 OK
+长度：未指定 [text/html]
+正在保存至: “p29.html”
+
+     0K .......... .........已连接。
+.已发出 HTTP 请求，正在等待回应...  ......200 OK
+长度：未指定 [text/html]
+正在保存至: “p31.html”
+
+     0K .......... ...........  480K
+    50K .....已连接。
+已发出 HTTP 请求，正在等待回应... .... .......... ..... .......... ......... .......... .......... ..........  715K
+    50K .....200 OK
+长度：未指定 [text/html]
+正在保存至: “p30.html”
+
+     0K .......... ........... ......200 OK
+长度：未指定 [text/html]
+........正在保存至: “p32.html”
+.  504K
+    50K ..
+     0K ........... ...... .                                            325K=0.1s
+
+...2018-01-04 03:44:38 (441 KB/s) - “p24.html” 已保存 [62840]
+
+.........  475K
+    50K .......... ..                                          22.6M=0.1s
+
+2018-01-04 03:44:38 (587 KB/s) - “p27.html” 已保存 [63611]
+
+.... .......... ..........  738K
+    50K .....200 OK
+长度：未指定 [text/html]
+正在保存至: “p33.html”
+
+     0K .......... ....... .                                            337K=0.1s
+
+2018-01-04 03:44:38 (592 KB/s) - “p28.html” 已保存 [62868]
+
+200 OK
+长度：未指定 [text/html]
+正在保存至: “p34.html”
+
+     0K .......... ......... .......... ......... .......... ...... .   . .             . .      . .                   327K=0.1s
+
+2018-01-04 03:44:38 (459 KB/s) - “p26.html” 已保存 [62532]
+
+.. ........... ..                                           373K=0.1s
+
+2018-01-04 03:44:38 (619 KB/s) - “p29.html” 已保存 [63729]
+
+........ .......... ........... .......... .......... ..........  723K
+    50K .......... ..                                           112M=0.07s
+
+2018-01-04 03:44:38 (896 KB/s) - “p30.html” 已保存 [63604]
+
+200 OK
+长度：未指定 [text/html]
+正在保存至: “p35.html”
+
+     0K .......... ............  476K
+    50K ......... .......... ........ ..........  738K
+    50K .....200 OK
+长度：未指定 [text/html]
+正在保存至: “p36.html”
+
+     0K .......... ....... ..........  714K
+    50K .......... .                                            108M=0.07s
+
+2018-01-04 03:44:38 (874 KB/s) - “p34.html” 已保存 [62773]
+
+....... .......... .....200 OK
+长度：未指定 [text/html]
+正在保存至: “p37.html”
+
+     0K .......... ....... .                                            316K=0.1s
+
+2018-01-04 03:44:38 (436 KB/s) - “p31.html” 已保存 [62491]
+
+.........  483K
+    50K .......... ..                                           393K=0.1s
+
+2018-01-04 03:44:38 (626 KB/s) - “p33.html” 已保存 [64318]
+
+........ ........... ..........  715K
+    50K .............. .......... ......... ..                                           369K=0.1s
+
+2018-01-04 03:44:38 (455 KB/s) - “p32.html” 已保存 [64080]
+
+200 OK
+长度：未指定 [text/html]
+正在保存至: “p39.html”
+
+     0K .......... ...... .......... .200 OK
+长度：未指定 [text/html]
+正在保存至: “p40.html”
+
+     0K .......... ......                                              302K=0.1s
+
+2018-01-04 03:44:38 (578 KB/s) - “p35.html” 已保存 [61957]
+
+...... ..........  706K
+    50K ............. ...............  483K
+    50K ............. ......200 OK
+长度：未指定 [text/html]
+正在保存至: “p41.html”
+
+     0K .......... ........                                              317K=0.1s
+
+2018-01-04 03:44:38 (579 KB/s) - “p37.html” 已保存 [62387]
+
+.... .......... .............. ..                                           347K=0.1s
+
+2018-01-04 03:44:38 (449 KB/s) - “p36.html” 已保存 [63502]
+
+.... .......... ..........  716K
+    50K .......... .........  473K
+    50K ..........                                              145M=0.1s
+
+2018-01-04 03:44:38 (571 KB/s) - “p39.html” 已保存 [61877]
+
+.......                                              306K=0.1s
+
+2018-01-04 03:44:38 (582 KB/s) - “p40.html” 已保存 [61811]
+
+.. .......... ..........  693K
+    50K ..200 OK
+长度：未指定 [text/html]
+正在保存至: “p38.html”
+
+     0K .......... .......... .                                            325K=0.1s
+
+2018-01-04 03:44:38 (574 KB/s) - “p41.html” 已保存 [62681]
+
+........ .......... .......... ..........  721K
+    50K ..........                                              306K=0.1s
+
+2018-01-04 03:44:39 (587 KB/s) - “p38.html” 已保存 [61556]
+
